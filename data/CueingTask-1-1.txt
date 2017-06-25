@@ -1,0 +1,7424 @@
+*** Header Start ***
+VersionPersist: 1
+LevelName: Session
+LevelName: Block
+LevelName: Trial
+LevelName: SubTrial
+LevelName: LogLevel5
+LevelName: LogLevel6
+LevelName: LogLevel7
+LevelName: LogLevel8
+LevelName: LogLevel9
+LevelName: LogLevel10
+Experiment: CueingTask
+SessionDate: 06-25-2017
+SessionTime: 16:33:59
+RandomSeed: 1380855282
+Group: 1
+Subject: 1
+Session: 1
+Display.RefreshRate: 60.012
+*** Header End ***
+	Level: 2
+	*** LogFrame Start ***
+	Practice: 2
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: PracProc
+	Practice.Cycle: 1
+	Practice.Sample: 1
+	Running: Practice
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 7985
+	stim.DurationError: -999999
+	stim.RTTime: 8575
+	stim.ACC: 0
+	stim.RT: 590
+	stim.RESP: {/}
+	stim.CRESP: z
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Practice: 6
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: PracProc
+	Practice.Cycle: 1
+	Practice.Sample: 2
+	Running: Practice
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 10217
+	stim.DurationError: -999999
+	stim.RTTime: 10766
+	stim.ACC: 1
+	stim.RT: 549
+	stim.RESP: z
+	stim.CRESP: z
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Practice: 3
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: PracProc
+	Practice.Cycle: 1
+	Practice.Sample: 3
+	Running: Practice
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 12150
+	stim.DurationError: -999999
+	stim.RTTime: 12514
+	stim.ACC: 0
+	stim.RT: 364
+	stim.RESP: z
+	stim.CRESP: {/}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Practice: 3
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: PracProc
+	Practice.Cycle: 1
+	Practice.Sample: 4
+	Running: Practice
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 14200
+	stim.DurationError: -999999
+	stim.RTTime: 14616
+	stim.ACC: 1
+	stim.RT: 416
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Practice: 1
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: PracProc
+	Practice.Cycle: 1
+	Practice.Sample: 5
+	Running: Practice
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 16150
+	stim.DurationError: -999999
+	stim.RTTime: 16645
+	stim.ACC: 1
+	stim.RT: 495
+	stim.RESP: z
+	stim.CRESP: z
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Practice: 2
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: PracProc
+	Practice.Cycle: 1
+	Practice.Sample: 6
+	Running: Practice
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 18033
+	stim.DurationError: -999999
+	stim.RTTime: 18485
+	stim.ACC: 1
+	stim.RT: 452
+	stim.RESP: z
+	stim.CRESP: z
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Practice: 4
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: PracProc
+	Practice.Cycle: 1
+	Practice.Sample: 7
+	Running: Practice
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 19899
+	stim.DurationError: -999999
+	stim.RTTime: 20371
+	stim.ACC: 1
+	stim.RT: 472
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Practice: 5
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: PracProc
+	Practice.Cycle: 1
+	Practice.Sample: 8
+	Running: Practice
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 21782
+	stim.DurationError: -999999
+	stim.RTTime: 22296
+	stim.ACC: 1
+	stim.RT: 514
+	stim.RESP: z
+	stim.CRESP: z
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Practice: 7
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: PracProc
+	Practice.Cycle: 1
+	Practice.Sample: 9
+	Running: Practice
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 23615
+	stim.DurationError: -999999
+	stim.RTTime: 24133
+	stim.ACC: 1
+	stim.RT: 518
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Practice: 1
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: PracProc
+	Practice.Cycle: 1
+	Practice.Sample: 10
+	Running: Practice
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 25631
+	stim.DurationError: -999999
+	stim.RTTime: 26237
+	stim.ACC: 1
+	stim.RT: 606
+	stim.RESP: z
+	stim.CRESP: z
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Practice: 8
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: PracProc
+	Practice.Cycle: 1
+	Practice.Sample: 11
+	Running: Practice
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 27764
+	stim.DurationError: -999999
+	stim.RTTime: 28351
+	stim.ACC: 1
+	stim.RT: 587
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Practice: 8
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: PracProc
+	Practice.Cycle: 1
+	Practice.Sample: 12
+	Running: Practice
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 29797
+	stim.DurationError: -999999
+	stim.RTTime: 30399
+	stim.ACC: 1
+	stim.RT: 602
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Practice: 6
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: PracProc
+	Practice.Cycle: 1
+	Practice.Sample: 13
+	Running: Practice
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 31780
+	stim.DurationError: -999999
+	stim.RTTime: 32306
+	stim.ACC: 1
+	stim.RT: 526
+	stim.RESP: z
+	stim.CRESP: z
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Practice: 4
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: PracProc
+	Practice.Cycle: 1
+	Practice.Sample: 14
+	Running: Practice
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 33680
+	stim.DurationError: -999999
+	stim.RTTime: 34241
+	stim.ACC: 1
+	stim.RT: 561
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Practice: 5
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: PracProc
+	Practice.Cycle: 1
+	Practice.Sample: 15
+	Running: Practice
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 35863
+	stim.DurationError: -999999
+	stim.RTTime: 36380
+	stim.ACC: 1
+	stim.RT: 517
+	stim.RESP: z
+	stim.CRESP: z
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Practice: 7
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: PracProc
+	Practice.Cycle: 1
+	Practice.Sample: 16
+	Running: Practice
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 37779
+	stim.DurationError: -999999
+	stim.RTTime: 38253
+	stim.ACC: 1
+	stim.RT: 474
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 41261
+	stim.DurationError: -999999
+	stim.RTTime: 41751
+	stim.ACC: 1
+	stim.RT: 490
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 43978
+	stim.DurationError: -999999
+	stim.RTTime: 44441
+	stim.ACC: 1
+	stim.RT: 463
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 2
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 46660
+	stim.DurationError: -999999
+	stim.RTTime: 47134
+	stim.ACC: 1
+	stim.RT: 474
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 3
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 49360
+	stim.DurationError: -999999
+	stim.RTTime: 49840
+	stim.ACC: 1
+	stim.RT: 480
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 4
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 52059
+	stim.DurationError: -999999
+	stim.RTTime: 52529
+	stim.ACC: 1
+	stim.RT: 470
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 54759
+	stim.DurationError: -999999
+	stim.RTTime: 55202
+	stim.ACC: 1
+	stim.RT: 443
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 6
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 57425
+	stim.DurationError: -999999
+	stim.RTTime: 57929
+	stim.ACC: 1
+	stim.RT: 504
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 7
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 60158
+	stim.DurationError: -999999
+	stim.RTTime: 60585
+	stim.ACC: 1
+	stim.RT: 427
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 8
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 62807
+	stim.DurationError: -999999
+	stim.RTTime: 63358
+	stim.ACC: 1
+	stim.RT: 551
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 9
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 65590
+	stim.DurationError: -999999
+	stim.RTTime: 66027
+	stim.ACC: 1
+	stim.RT: 437
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 10
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 68256
+	stim.DurationError: -999999
+	stim.RTTime: 68929
+	stim.ACC: 1
+	stim.RT: 673
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 11
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 71156
+	stim.DurationError: -999999
+	stim.RTTime: 71651
+	stim.ACC: 1
+	stim.RT: 495
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 12
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 73872
+	stim.DurationError: -999999
+	stim.RTTime: 74430
+	stim.ACC: 1
+	stim.RT: 558
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 13
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 76655
+	stim.DurationError: -999999
+	stim.RTTime: 77168
+	stim.ACC: 1
+	stim.RT: 513
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 14
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 79387
+	stim.DurationError: -999999
+	stim.RTTime: 79817
+	stim.ACC: 1
+	stim.RT: 430
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 15
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 82037
+	stim.DurationError: -999999
+	stim.RTTime: 82581
+	stim.ACC: 1
+	stim.RT: 544
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 16
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 84803
+	stim.DurationError: -999999
+	stim.RTTime: 85264
+	stim.ACC: 1
+	stim.RT: 461
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 17
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 87486
+	stim.DurationError: -999999
+	stim.RTTime: 88003
+	stim.ACC: 1
+	stim.RT: 517
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 18
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 90235
+	stim.DurationError: -999999
+	stim.RTTime: 90709
+	stim.ACC: 1
+	stim.RT: 474
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 19
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 92935
+	stim.DurationError: -999999
+	stim.RTTime: 93562
+	stim.ACC: 1
+	stim.RT: 627
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 20
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 95784
+	stim.DurationError: -999999
+	stim.RTTime: 96284
+	stim.ACC: 1
+	stim.RT: 500
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 21
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 98517
+	stim.DurationError: -999999
+	stim.RTTime: 98999
+	stim.ACC: 1
+	stim.RT: 482
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 22
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 101233
+	stim.DurationError: -999999
+	stim.RTTime: 101932
+	stim.ACC: 1
+	stim.RT: 699
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 23
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 104166
+	stim.DurationError: -999999
+	stim.RTTime: 104557
+	stim.ACC: 1
+	stim.RT: 391
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 24
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 106782
+	stim.DurationError: -999999
+	stim.RTTime: 107324
+	stim.ACC: 1
+	stim.RT: 542
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 25
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 109548
+	stim.DurationError: -999999
+	stim.RTTime: 109999
+	stim.ACC: 1
+	stim.RT: 451
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 26
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 112231
+	stim.DurationError: -999999
+	stim.RTTime: 112761
+	stim.ACC: 1
+	stim.RT: 530
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 27
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 114981
+	stim.DurationError: -999999
+	stim.RTTime: 115526
+	stim.ACC: 1
+	stim.RT: 545
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 28
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 117747
+	stim.DurationError: -999999
+	stim.RTTime: 118182
+	stim.ACC: 1
+	stim.RT: 435
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 29
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 120413
+	stim.DurationError: -999999
+	stim.RTTime: 120931
+	stim.ACC: 1
+	stim.RT: 518
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 30
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 123162
+	stim.DurationError: -999999
+	stim.RTTime: 123656
+	stim.ACC: 1
+	stim.RT: 494
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 31
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 125878
+	stim.DurationError: -999999
+	stim.RTTime: 126534
+	stim.ACC: 1
+	stim.RT: 656
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 32
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 128761
+	stim.DurationError: -999999
+	stim.RTTime: 129390
+	stim.ACC: 1
+	stim.RT: 629
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 33
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 131611
+	stim.DurationError: -999999
+	stim.RTTime: 132292
+	stim.ACC: 1
+	stim.RT: 681
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 34
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 134527
+	stim.DurationError: -999999
+	stim.RTTime: 135004
+	stim.ACC: 1
+	stim.RT: 477
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 35
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 137226
+	stim.DurationError: -999999
+	stim.RTTime: 137710
+	stim.ACC: 0
+	stim.RT: 484
+	stim.RESP: {/}
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 36
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 139942
+	stim.DurationError: -999999
+	stim.RTTime: 140585
+	stim.ACC: 1
+	stim.RT: 643
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 37
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 142808
+	stim.DurationError: -999999
+	stim.RTTime: 143278
+	stim.ACC: 0
+	stim.RT: 470
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 38
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 145508
+	stim.DurationError: -999999
+	stim.RTTime: 145947
+	stim.ACC: 1
+	stim.RT: 439
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 39
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 148174
+	stim.DurationError: -999999
+	stim.RTTime: 148681
+	stim.ACC: 1
+	stim.RT: 507
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 40
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 150907
+	stim.DurationError: -999999
+	stim.RTTime: 151349
+	stim.ACC: 1
+	stim.RT: 442
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 41
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 153573
+	stim.DurationError: -999999
+	stim.RTTime: 154078
+	stim.ACC: 1
+	stim.RT: 505
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 42
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 156306
+	stim.DurationError: -999999
+	stim.RTTime: 156838
+	stim.ACC: 1
+	stim.RT: 532
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 43
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 159072
+	stim.DurationError: -999999
+	stim.RTTime: 159546
+	stim.ACC: 1
+	stim.RT: 474
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 44
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 161771
+	stim.DurationError: -999999
+	stim.RTTime: 162212
+	stim.ACC: 0
+	stim.RT: 441
+	stim.RESP: {/}
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 45
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 164438
+	stim.DurationError: -999999
+	stim.RTTime: 164990
+	stim.ACC: 1
+	stim.RT: 552
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 46
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 167220
+	stim.DurationError: -999999
+	stim.RTTime: 167590
+	stim.ACC: 1
+	stim.RT: 370
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 47
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 169820
+	stim.DurationError: -999999
+	stim.RTTime: 170247
+	stim.ACC: 1
+	stim.RT: 427
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 48
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 172469
+	stim.DurationError: -999999
+	stim.RTTime: 172879
+	stim.ACC: 1
+	stim.RT: 410
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 49
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 175102
+	stim.DurationError: -999999
+	stim.RTTime: 175510
+	stim.ACC: 1
+	stim.RT: 408
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 50
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 177735
+	stim.DurationError: -999999
+	stim.RTTime: 178237
+	stim.ACC: 1
+	stim.RT: 502
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 51
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 180468
+	stim.DurationError: -999999
+	stim.RTTime: 181029
+	stim.ACC: 1
+	stim.RT: 561
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 52
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 183251
+	stim.DurationError: -999999
+	stim.RTTime: 183780
+	stim.ACC: 1
+	stim.RT: 529
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 53
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 186000
+	stim.DurationError: -999999
+	stim.RTTime: 186613
+	stim.ACC: 1
+	stim.RT: 613
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 54
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 188833
+	stim.DurationError: -999999
+	stim.RTTime: 189337
+	stim.ACC: 1
+	stim.RT: 504
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 55
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 191566
+	stim.DurationError: -999999
+	stim.RTTime: 192080
+	stim.ACC: 1
+	stim.RT: 514
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 56
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 194298
+	stim.DurationError: -999999
+	stim.RTTime: 194797
+	stim.ACC: 1
+	stim.RT: 499
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 57
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 197031
+	stim.DurationError: -999999
+	stim.RTTime: 197623
+	stim.ACC: 1
+	stim.RT: 592
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 58
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 199847
+	stim.DurationError: -999999
+	stim.RTTime: 200454
+	stim.ACC: 1
+	stim.RT: 607
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 59
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 202680
+	stim.DurationError: -999999
+	stim.RTTime: 203195
+	stim.ACC: 1
+	stim.RT: 515
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 60
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 205430
+	stim.DurationError: -999999
+	stim.RTTime: 205858
+	stim.ACC: 1
+	stim.RT: 428
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 61
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 208079
+	stim.DurationError: -999999
+	stim.RTTime: 208602
+	stim.ACC: 1
+	stim.RT: 523
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 62
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 210829
+	stim.DurationError: -999999
+	stim.RTTime: 211341
+	stim.ACC: 1
+	stim.RT: 512
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 63
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 213561
+	stim.DurationError: -999999
+	stim.RTTime: 213991
+	stim.ACC: 1
+	stim.RT: 430
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 64
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 216211
+	stim.DurationError: -999999
+	stim.RTTime: 216606
+	stim.ACC: 1
+	stim.RT: 395
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 65
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 218827
+	stim.DurationError: -999999
+	stim.RTTime: 219332
+	stim.ACC: 1
+	stim.RT: 505
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 66
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 221560
+	stim.DurationError: -999999
+	stim.RTTime: 221992
+	stim.ACC: 1
+	stim.RT: 432
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 67
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 224226
+	stim.DurationError: -999999
+	stim.RTTime: 224688
+	stim.ACC: 1
+	stim.RT: 462
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 68
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 226909
+	stim.DurationError: -999999
+	stim.RTTime: 227389
+	stim.ACC: 1
+	stim.RT: 480
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 69
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 229608
+	stim.DurationError: -999999
+	stim.RTTime: 230016
+	stim.ACC: 1
+	stim.RT: 408
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 70
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 232241
+	stim.DurationError: -999999
+	stim.RTTime: 232712
+	stim.ACC: 1
+	stim.RT: 471
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 71
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 234941
+	stim.DurationError: -999999
+	stim.RTTime: 235406
+	stim.ACC: 1
+	stim.RT: 465
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 72
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 237640
+	stim.DurationError: -999999
+	stim.RTTime: 238108
+	stim.ACC: 1
+	stim.RT: 468
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 73
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 240340
+	stim.DurationError: -999999
+	stim.RTTime: 240830
+	stim.ACC: 1
+	stim.RT: 490
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 74
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 243056
+	stim.DurationError: -999999
+	stim.RTTime: 243462
+	stim.ACC: 1
+	stim.RT: 406
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 75
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 245689
+	stim.DurationError: -999999
+	stim.RTTime: 246274
+	stim.ACC: 0
+	stim.RT: 585
+	stim.RESP: {/}
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 76
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 248505
+	stim.DurationError: -999999
+	stim.RTTime: 249026
+	stim.ACC: 1
+	stim.RT: 521
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 77
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 251254
+	stim.DurationError: -999999
+	stim.RTTime: 251863
+	stim.ACC: 0
+	stim.RT: 609
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 78
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 254087
+	stim.DurationError: -999999
+	stim.RTTime: 254761
+	stim.ACC: 1
+	stim.RT: 674
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 79
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 256986
+	stim.DurationError: -999999
+	stim.RTTime: 257423
+	stim.ACC: 1
+	stim.RT: 437
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 80
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 259653
+	stim.DurationError: -999999
+	stim.RTTime: 260106
+	stim.ACC: 1
+	stim.RT: 453
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 81
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 262335
+	stim.DurationError: -999999
+	stim.RTTime: 262877
+	stim.ACC: 1
+	stim.RT: 542
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 82
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 265101
+	stim.DurationError: -999999
+	stim.RTTime: 265539
+	stim.ACC: 1
+	stim.RT: 438
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 83
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 267768
+	stim.DurationError: -999999
+	stim.RTTime: 268232
+	stim.ACC: 1
+	stim.RT: 464
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 84
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 270467
+	stim.DurationError: -999999
+	stim.RTTime: 270926
+	stim.ACC: 1
+	stim.RT: 459
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 85
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 273150
+	stim.DurationError: -999999
+	stim.RTTime: 273538
+	stim.ACC: 0
+	stim.RT: 388
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 86
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 275766
+	stim.DurationError: -999999
+	stim.RTTime: 276239
+	stim.ACC: 1
+	stim.RT: 473
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 87
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 278466
+	stim.DurationError: -999999
+	stim.RTTime: 279103
+	stim.ACC: 1
+	stim.RT: 637
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 88
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 281332
+	stim.DurationError: -999999
+	stim.RTTime: 281841
+	stim.ACC: 1
+	stim.RT: 509
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 89
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 284064
+	stim.DurationError: -999999
+	stim.RTTime: 284501
+	stim.ACC: 1
+	stim.RT: 437
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 90
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 286731
+	stim.DurationError: -999999
+	stim.RTTime: 287154
+	stim.ACC: 1
+	stim.RT: 423
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 91
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 289380
+	stim.DurationError: -999999
+	stim.RTTime: 289755
+	stim.ACC: 0
+	stim.RT: 375
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 92
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 291980
+	stim.DurationError: -999999
+	stim.RTTime: 292473
+	stim.ACC: 1
+	stim.RT: 493
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 93
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 294696
+	stim.DurationError: -999999
+	stim.RTTime: 295242
+	stim.ACC: 1
+	stim.RT: 546
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 94
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 297462
+	stim.DurationError: -999999
+	stim.RTTime: 297956
+	stim.ACC: 1
+	stim.RT: 494
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 95
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 300178
+	stim.DurationError: -999999
+	stim.RTTime: 300623
+	stim.ACC: 1
+	stim.RT: 445
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 96
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 302844
+	stim.DurationError: -999999
+	stim.RTTime: 303385
+	stim.ACC: 1
+	stim.RT: 541
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 97
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 305610
+	stim.DurationError: -999999
+	stim.RTTime: 306156
+	stim.ACC: 1
+	stim.RT: 546
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 98
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 308376
+	stim.DurationError: -999999
+	stim.RTTime: 308852
+	stim.ACC: 1
+	stim.RT: 476
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 99
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 311076
+	stim.DurationError: -999999
+	stim.RTTime: 311577
+	stim.ACC: 1
+	stim.RT: 501
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 100
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 313809
+	stim.DurationError: -999999
+	stim.RTTime: 314478
+	stim.ACC: 1
+	stim.RT: 669
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 101
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 316708
+	stim.DurationError: -999999
+	stim.RTTime: 317213
+	stim.ACC: 1
+	stim.RT: 505
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 102
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 319441
+	stim.DurationError: -999999
+	stim.RTTime: 319907
+	stim.ACC: 1
+	stim.RT: 466
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 103
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 322140
+	stim.DurationError: -999999
+	stim.RTTime: 322676
+	stim.ACC: 1
+	stim.RT: 536
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 104
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 324907
+	stim.DurationError: -999999
+	stim.RTTime: 325384
+	stim.ACC: 1
+	stim.RT: 477
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 105
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 327606
+	stim.DurationError: -999999
+	stim.RTTime: 328170
+	stim.ACC: 1
+	stim.RT: 564
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 106
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 330405
+	stim.DurationError: -999999
+	stim.RTTime: 330831
+	stim.ACC: 1
+	stim.RT: 426
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 107
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 333055
+	stim.DurationError: -999999
+	stim.RTTime: 333554
+	stim.ACC: 1
+	stim.RT: 499
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 108
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 335788
+	stim.DurationError: -999999
+	stim.RTTime: 336192
+	stim.ACC: 1
+	stim.RT: 404
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 109
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 338421
+	stim.DurationError: -999999
+	stim.RTTime: 338794
+	stim.ACC: 1
+	stim.RT: 373
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 110
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 341020
+	stim.DurationError: -999999
+	stim.RTTime: 341581
+	stim.ACC: 1
+	stim.RT: 561
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 111
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 343803
+	stim.DurationError: -999999
+	stim.RTTime: 344339
+	stim.ACC: 1
+	stim.RT: 536
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 112
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 346569
+	stim.DurationError: -999999
+	stim.RTTime: 347019
+	stim.ACC: 1
+	stim.RT: 450
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 113
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 349252
+	stim.DurationError: -999999
+	stim.RTTime: 349855
+	stim.ACC: 1
+	stim.RT: 603
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 114
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 352085
+	stim.DurationError: -999999
+	stim.RTTime: 352551
+	stim.ACC: 1
+	stim.RT: 466
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 115
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 354784
+	stim.DurationError: -999999
+	stim.RTTime: 355199
+	stim.ACC: 1
+	stim.RT: 415
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 116
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 357434
+	stim.DurationError: -999999
+	stim.RTTime: 357853
+	stim.ACC: 1
+	stim.RT: 419
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 117
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 360083
+	stim.DurationError: -999999
+	stim.RTTime: 360546
+	stim.ACC: 0
+	stim.RT: 463
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 118
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 362766
+	stim.DurationError: -999999
+	stim.RTTime: 363629
+	stim.ACC: 1
+	stim.RT: 863
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 119
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 365849
+	stim.DurationError: -999999
+	stim.RTTime: 366329
+	stim.ACC: 1
+	stim.RT: 480
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 120
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 368548
+	stim.DurationError: -999999
+	stim.RTTime: 369046
+	stim.ACC: 1
+	stim.RT: 498
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 121
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 371264
+	stim.DurationError: -999999
+	stim.RTTime: 371706
+	stim.ACC: 1
+	stim.RT: 442
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 122
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 373930
+	stim.DurationError: -999999
+	stim.RTTime: 374377
+	stim.ACC: 1
+	stim.RT: 447
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 123
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 376597
+	stim.DurationError: -999999
+	stim.RTTime: 377147
+	stim.ACC: 1
+	stim.RT: 550
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 124
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 379379
+	stim.DurationError: -999999
+	stim.RTTime: 379901
+	stim.ACC: 1
+	stim.RT: 522
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 125
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 382129
+	stim.DurationError: -999999
+	stim.RTTime: 382611
+	stim.ACC: 1
+	stim.RT: 482
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 126
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 384845
+	stim.DurationError: -999999
+	stim.RTTime: 385299
+	stim.ACC: 1
+	stim.RT: 454
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 127
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 387528
+	stim.DurationError: -999999
+	stim.RTTime: 388139
+	stim.ACC: 1
+	stim.RT: 611
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 128
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 390361
+	stim.DurationError: -999999
+	stim.RTTime: 391071
+	stim.ACC: 1
+	stim.RT: 710
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 129
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 393293
+	stim.DurationError: -999999
+	stim.RTTime: 393736
+	stim.ACC: 1
+	stim.RT: 443
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 130
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 395959
+	stim.DurationError: -999999
+	stim.RTTime: 396492
+	stim.ACC: 1
+	stim.RT: 533
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 131
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 398726
+	stim.DurationError: -999999
+	stim.RTTime: 399220
+	stim.ACC: 1
+	stim.RT: 494
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 132
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 401442
+	stim.DurationError: -999999
+	stim.RTTime: 401898
+	stim.ACC: 1
+	stim.RT: 456
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 133
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 404125
+	stim.DurationError: -999999
+	stim.RTTime: 404515
+	stim.ACC: 1
+	stim.RT: 390
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 134
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 406741
+	stim.DurationError: -999999
+	stim.RTTime: 407117
+	stim.ACC: 1
+	stim.RT: 376
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 135
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 409340
+	stim.DurationError: -999999
+	stim.RTTime: 409707
+	stim.ACC: 1
+	stim.RT: 367
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 136
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 411940
+	stim.DurationError: -999999
+	stim.RTTime: 412304
+	stim.ACC: 1
+	stim.RT: 364
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 137
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 414523
+	stim.DurationError: -999999
+	stim.RTTime: 414868
+	stim.ACC: 0
+	stim.RT: 345
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 138
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 417089
+	stim.DurationError: -999999
+	stim.RTTime: 417521
+	stim.ACC: 1
+	stim.RT: 432
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 139
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 419755
+	stim.DurationError: -999999
+	stim.RTTime: 420492
+	stim.ACC: 1
+	stim.RT: 737
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 140
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 422721
+	stim.DurationError: -999999
+	stim.RTTime: 423208
+	stim.ACC: 1
+	stim.RT: 487
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 141
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 425437
+	stim.DurationError: -999999
+	stim.RTTime: 425926
+	stim.ACC: 1
+	stim.RT: 489
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 142
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 428153
+	stim.DurationError: -999999
+	stim.RTTime: 428500
+	stim.ACC: 1
+	stim.RT: 347
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 143
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 430719
+	stim.DurationError: -999999
+	stim.RTTime: 431239
+	stim.ACC: 1
+	stim.RT: 520
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 144
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 8
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 433469
+	stim.DurationError: -999999
+	stim.RTTime: 433877
+	stim.ACC: 1
+	stim.RT: 408
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 145
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 3
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 436102
+	stim.DurationError: -999999
+	stim.RTTime: 436526
+	stim.ACC: 1
+	stim.RT: 424
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 146
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 2
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 438751
+	stim.DurationError: -999999
+	stim.RTTime: 439225
+	stim.ACC: 1
+	stim.RT: 474
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 147
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 441451
+	stim.DurationError: -999999
+	stim.RTTime: 441953
+	stim.ACC: 1
+	stim.RT: 502
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 148
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 4
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 444183
+	stim.DurationError: -999999
+	stim.RTTime: 444804
+	stim.ACC: 1
+	stim.RT: 621
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 149
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 447033
+	stim.DurationError: -999999
+	stim.RTTime: 447610
+	stim.ACC: 1
+	stim.RT: 577
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 150
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 449832
+	stim.DurationError: -999999
+	stim.RTTime: 450257
+	stim.ACC: 0
+	stim.RT: 425
+	stim.RESP: {/}
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 151
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 452482
+	stim.DurationError: -999999
+	stim.RTTime: 452947
+	stim.ACC: 0
+	stim.RT: 465
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 152
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 5
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 455181
+	stim.DurationError: -999999
+	stim.RTTime: 455692
+	stim.ACC: 1
+	stim.RT: 511
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 153
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 457914
+	stim.DurationError: -999999
+	stim.RTTime: 458432
+	stim.ACC: 1
+	stim.RT: 518
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 154
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 460664
+	stim.DurationError: -999999
+	stim.RTTime: 461133
+	stim.ACC: 1
+	stim.RT: 469
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 155
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block01: 7
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 463363
+	stim.DurationError: -999999
+	stim.RTTime: 463853
+	stim.ACC: 1
+	stim.RT: 490
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block01.Cycle: 1
+	Block01.Sample: 156
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 466079
+	stim.DurationError: -999999
+	stim.RTTime: 466667
+	stim.ACC: 1
+	stim.RT: 588
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 157
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 468895
+	stim.DurationError: -999999
+	stim.RTTime: 469359
+	stim.ACC: 1
+	stim.RT: 464
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 158
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block01: 1
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 471578
+	stim.DurationError: -999999
+	stim.RTTime: 472009
+	stim.ACC: 1
+	stim.RT: 431
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 159
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block01: 6
+	Running: Block01
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 474228
+	stim.DurationError: -999999
+	stim.RTTime: 474704
+	stim.ACC: 1
+	stim.RT: 476
+	stim.RESP: z
+	stim.CRESP: z
+	Block01.Cycle: 1
+	Block01.Sample: 160
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 811679
+	stim.DurationError: -999999
+	stim.RTTime: 812198
+	stim.ACC: 1
+	stim.RT: 519
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 814428
+	stim.DurationError: -999999
+	stim.RTTime: 814792
+	stim.ACC: 0
+	stim.RT: 364
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 2
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 817011
+	stim.DurationError: -999999
+	stim.RTTime: 817640
+	stim.ACC: 1
+	stim.RT: 629
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 3
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 819861
+	stim.DurationError: -999999
+	stim.RTTime: 820310
+	stim.ACC: 1
+	stim.RT: 449
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 4
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 822543
+	stim.DurationError: -999999
+	stim.RTTime: 823076
+	stim.ACC: 1
+	stim.RT: 533
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 825310
+	stim.DurationError: -999999
+	stim.RTTime: 825797
+	stim.ACC: 1
+	stim.RT: 487
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 6
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 828026
+	stim.DurationError: -999999
+	stim.RTTime: 828482
+	stim.ACC: 0
+	stim.RT: 456
+	stim.RESP: {/}
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 7
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 830709
+	stim.DurationError: -999999
+	stim.RTTime: 831480
+	stim.ACC: 1
+	stim.RT: 771
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 8
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 833708
+	stim.DurationError: -999999
+	stim.RTTime: 834305
+	stim.ACC: 0
+	stim.RT: 597
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 9
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 836524
+	stim.DurationError: -999999
+	stim.RTTime: 837028
+	stim.ACC: 1
+	stim.RT: 504
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 10
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 839257
+	stim.DurationError: -999999
+	stim.RTTime: 839610
+	stim.ACC: 1
+	stim.RT: 353
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 11
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 841840
+	stim.DurationError: -999999
+	stim.RTTime: 842227
+	stim.ACC: 1
+	stim.RT: 387
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 12
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 844456
+	stim.DurationError: -999999
+	stim.RTTime: 844999
+	stim.ACC: 1
+	stim.RT: 543
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 13
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 847222
+	stim.DurationError: -999999
+	stim.RTTime: 847650
+	stim.ACC: 1
+	stim.RT: 428
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 14
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 849871
+	stim.DurationError: -999999
+	stim.RTTime: 850317
+	stim.ACC: 1
+	stim.RT: 446
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 15
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 852538
+	stim.DurationError: -999999
+	stim.RTTime: 852950
+	stim.ACC: 1
+	stim.RT: 412
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 16
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 855170
+	stim.DurationError: -999999
+	stim.RTTime: 855648
+	stim.ACC: 1
+	stim.RT: 478
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 17
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 857870
+	stim.DurationError: -999999
+	stim.RTTime: 858427
+	stim.ACC: 0
+	stim.RT: 557
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 18
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 860653
+	stim.DurationError: -999999
+	stim.RTTime: 861216
+	stim.ACC: 1
+	stim.RT: 563
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 19
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 863436
+	stim.DurationError: -999999
+	stim.RTTime: 863873
+	stim.ACC: 1
+	stim.RT: 437
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 20
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 866102
+	stim.DurationError: -999999
+	stim.RTTime: 866771
+	stim.ACC: 1
+	stim.RT: 669
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 21
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 869001
+	stim.DurationError: -999999
+	stim.RTTime: 869505
+	stim.ACC: 1
+	stim.RT: 504
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 22
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 871734
+	stim.DurationError: -999999
+	stim.RTTime: 872212
+	stim.ACC: 1
+	stim.RT: 478
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 23
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 874433
+	stim.DurationError: -999999
+	stim.RTTime: 874968
+	stim.ACC: 1
+	stim.RT: 535
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 24
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 877200
+	stim.DurationError: -999999
+	stim.RTTime: 877664
+	stim.ACC: 1
+	stim.RT: 464
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 25
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 879899
+	stim.DurationError: -999999
+	stim.RTTime: 880357
+	stim.ACC: 1
+	stim.RT: 458
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 26
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 882582
+	stim.DurationError: -999999
+	stim.RTTime: 883085
+	stim.ACC: 1
+	stim.RT: 503
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 27
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 885315
+	stim.DurationError: -999999
+	stim.RTTime: 885730
+	stim.ACC: 1
+	stim.RT: 415
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 28
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 887964
+	stim.DurationError: -999999
+	stim.RTTime: 888461
+	stim.ACC: 1
+	stim.RT: 497
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 29
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 890680
+	stim.DurationError: -999999
+	stim.RTTime: 891121
+	stim.ACC: 1
+	stim.RT: 441
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 30
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 893346
+	stim.DurationError: -999999
+	stim.RTTime: 894007
+	stim.ACC: 1
+	stim.RT: 661
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 31
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 896229
+	stim.DurationError: -999999
+	stim.RTTime: 896914
+	stim.ACC: 1
+	stim.RT: 685
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 32
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 899145
+	stim.DurationError: -999999
+	stim.RTTime: 899897
+	stim.ACC: 1
+	stim.RT: 752
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 33
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 902128
+	stim.DurationError: -999999
+	stim.RTTime: 902635
+	stim.ACC: 1
+	stim.RT: 507
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 34
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 904861
+	stim.DurationError: -999999
+	stim.RTTime: 905244
+	stim.ACC: 1
+	stim.RT: 383
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 35
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 907477
+	stim.DurationError: -999999
+	stim.RTTime: 907867
+	stim.ACC: 1
+	stim.RT: 390
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 36
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 910093
+	stim.DurationError: -999999
+	stim.RTTime: 910610
+	stim.ACC: 1
+	stim.RT: 517
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 37
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 912843
+	stim.DurationError: -999999
+	stim.RTTime: 913371
+	stim.ACC: 1
+	stim.RT: 528
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 38
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 915592
+	stim.DurationError: -999999
+	stim.RTTime: 916144
+	stim.ACC: 1
+	stim.RT: 552
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 39
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 918375
+	stim.DurationError: -999999
+	stim.RTTime: 918874
+	stim.ACC: 0
+	stim.RT: 499
+	stim.RESP: {/}
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 40
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 921108
+	stim.DurationError: -999999
+	stim.RTTime: 921558
+	stim.ACC: 1
+	stim.RT: 450
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 41
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 923791
+	stim.DurationError: -999999
+	stim.RTTime: 924194
+	stim.ACC: 0
+	stim.RT: 403
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 42
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 926423
+	stim.DurationError: -999999
+	stim.RTTime: 926897
+	stim.ACC: 1
+	stim.RT: 474
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 43
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 929123
+	stim.DurationError: -999999
+	stim.RTTime: 929716
+	stim.ACC: 1
+	stim.RT: 593
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 44
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 931939
+	stim.DurationError: -999999
+	stim.RTTime: 932409
+	stim.ACC: 1
+	stim.RT: 470
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 45
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 934638
+	stim.DurationError: -999999
+	stim.RTTime: 935130
+	stim.ACC: 1
+	stim.RT: 492
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 46
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 937355
+	stim.DurationError: -999999
+	stim.RTTime: 937766
+	stim.ACC: 1
+	stim.RT: 411
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 47
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 939987
+	stim.DurationError: -999999
+	stim.RTTime: 940459
+	stim.ACC: 1
+	stim.RT: 472
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 48
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 942687
+	stim.DurationError: -999999
+	stim.RTTime: 943153
+	stim.ACC: 1
+	stim.RT: 466
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 49
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 945386
+	stim.DurationError: -999999
+	stim.RTTime: 945895
+	stim.ACC: 1
+	stim.RT: 509
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 50
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 948119
+	stim.DurationError: -999999
+	stim.RTTime: 948696
+	stim.ACC: 1
+	stim.RT: 577
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 51
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 950919
+	stim.DurationError: -999999
+	stim.RTTime: 951574
+	stim.ACC: 1
+	stim.RT: 655
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 52
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 953801
+	stim.DurationError: -999999
+	stim.RTTime: 954298
+	stim.ACC: 1
+	stim.RT: 497
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 53
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 956517
+	stim.DurationError: -999999
+	stim.RTTime: 956975
+	stim.ACC: 1
+	stim.RT: 458
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 54
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 959200
+	stim.DurationError: -999999
+	stim.RTTime: 959580
+	stim.ACC: 1
+	stim.RT: 380
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 55
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 961800
+	stim.DurationError: -999999
+	stim.RTTime: 962337
+	stim.ACC: 1
+	stim.RT: 537
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 56
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 964566
+	stim.DurationError: -999999
+	stim.RTTime: 965022
+	stim.ACC: 1
+	stim.RT: 456
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 57
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 967249
+	stim.DurationError: -999999
+	stim.RTTime: 967716
+	stim.ACC: 1
+	stim.RT: 467
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 58
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 969948
+	stim.DurationError: -999999
+	stim.RTTime: 970528
+	stim.ACC: 1
+	stim.RT: 580
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 59
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 972748
+	stim.DurationError: -999999
+	stim.RTTime: 973243
+	stim.ACC: 1
+	stim.RT: 495
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 60
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 975464
+	stim.DurationError: -999999
+	stim.RTTime: 975873
+	stim.ACC: 1
+	stim.RT: 409
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 61
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 978097
+	stim.DurationError: -999999
+	stim.RTTime: 978493
+	stim.ACC: 1
+	stim.RT: 396
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 62
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 980713
+	stim.DurationError: -999999
+	stim.RTTime: 981102
+	stim.ACC: 1
+	stim.RT: 389
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 63
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 983329
+	stim.DurationError: -999999
+	stim.RTTime: 983870
+	stim.ACC: 1
+	stim.RT: 541
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 64
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 986095
+	stim.DurationError: -999999
+	stim.RTTime: 986519
+	stim.ACC: 0
+	stim.RT: 424
+	stim.RESP: {/}
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 65
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 988745
+	stim.DurationError: -999999
+	stim.RTTime: 989467
+	stim.ACC: 1
+	stim.RT: 722
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 66
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 991694
+	stim.DurationError: -999999
+	stim.RTTime: 992110
+	stim.ACC: 1
+	stim.RT: 416
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 67
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 994344
+	stim.DurationError: -999999
+	stim.RTTime: 994742
+	stim.ACC: 1
+	stim.RT: 398
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 68
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 996976
+	stim.DurationError: -999999
+	stim.RTTime: 997401
+	stim.ACC: 1
+	stim.RT: 425
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 69
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 999626
+	stim.DurationError: -999999
+	stim.RTTime: 1000038
+	stim.ACC: 1
+	stim.RT: 412
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 70
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1002259
+	stim.DurationError: -999999
+	stim.RTTime: 1002615
+	stim.ACC: 0
+	stim.RT: 356
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 71
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1004841
+	stim.DurationError: -999999
+	stim.RTTime: 1005331
+	stim.ACC: 1
+	stim.RT: 490
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 72
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1007558
+	stim.DurationError: -999999
+	stim.RTTime: 1008005
+	stim.ACC: 0
+	stim.RT: 447
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 73
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1010224
+	stim.DurationError: -999999
+	stim.RTTime: 1010864
+	stim.ACC: 1
+	stim.RT: 640
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 74
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1013090
+	stim.DurationError: -999999
+	stim.RTTime: 1013612
+	stim.ACC: 1
+	stim.RT: 522
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 75
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1015839
+	stim.DurationError: -999999
+	stim.RTTime: 1016289
+	stim.ACC: 1
+	stim.RT: 450
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 76
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1018522
+	stim.DurationError: -999999
+	stim.RTTime: 1018959
+	stim.ACC: 1
+	stim.RT: 437
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 77
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1021188
+	stim.DurationError: -999999
+	stim.RTTime: 1021601
+	stim.ACC: 1
+	stim.RT: 413
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 78
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1023821
+	stim.DurationError: -999999
+	stim.RTTime: 1024467
+	stim.ACC: 1
+	stim.RT: 646
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 79
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1026687
+	stim.DurationError: -999999
+	stim.RTTime: 1027300
+	stim.ACC: 1
+	stim.RT: 613
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 80
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1029520
+	stim.DurationError: -999999
+	stim.RTTime: 1030049
+	stim.ACC: 1
+	stim.RT: 529
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 81
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1032269
+	stim.DurationError: -999999
+	stim.RTTime: 1032836
+	stim.ACC: 0
+	stim.RT: 567
+	stim.RESP: {/}
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 82
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1035069
+	stim.DurationError: -999999
+	stim.RTTime: 1035704
+	stim.ACC: 1
+	stim.RT: 635
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 83
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1037935
+	stim.DurationError: -999999
+	stim.RTTime: 1038411
+	stim.ACC: 1
+	stim.RT: 476
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 84
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1040635
+	stim.DurationError: -999999
+	stim.RTTime: 1041080
+	stim.ACC: 1
+	stim.RT: 445
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 85
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1043301
+	stim.DurationError: -999999
+	stim.RTTime: 1043785
+	stim.ACC: 1
+	stim.RT: 484
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 86
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1046017
+	stim.DurationError: -999999
+	stim.RTTime: 1046528
+	stim.ACC: 1
+	stim.RT: 511
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 87
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1048750
+	stim.DurationError: -999999
+	stim.RTTime: 1049190
+	stim.ACC: 1
+	stim.RT: 440
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 88
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1051416
+	stim.DurationError: -999999
+	stim.RTTime: 1051971
+	stim.ACC: 1
+	stim.RT: 555
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 89
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1054199
+	stim.DurationError: -999999
+	stim.RTTime: 1054735
+	stim.ACC: 1
+	stim.RT: 536
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 90
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1056965
+	stim.DurationError: -999999
+	stim.RTTime: 1057443
+	stim.ACC: 1
+	stim.RT: 478
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 91
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1059664
+	stim.DurationError: -999999
+	stim.RTTime: 1060048
+	stim.ACC: 1
+	stim.RT: 384
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 92
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1062280
+	stim.DurationError: -999999
+	stim.RTTime: 1062768
+	stim.ACC: 1
+	stim.RT: 488
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 93
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1064996
+	stim.DurationError: -999999
+	stim.RTTime: 1065514
+	stim.ACC: 1
+	stim.RT: 518
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 94
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1067746
+	stim.DurationError: -999999
+	stim.RTTime: 1068470
+	stim.ACC: 1
+	stim.RT: 724
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 95
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1070695
+	stim.DurationError: -999999
+	stim.RTTime: 1071230
+	stim.ACC: 1
+	stim.RT: 535
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 96
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1073462
+	stim.DurationError: -999999
+	stim.RTTime: 1074112
+	stim.ACC: 1
+	stim.RT: 650
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 97
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1076344
+	stim.DurationError: -999999
+	stim.RTTime: 1076758
+	stim.ACC: 1
+	stim.RT: 414
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 98
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1078977
+	stim.DurationError: -999999
+	stim.RTTime: 1079402
+	stim.ACC: 1
+	stim.RT: 425
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 99
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1081627
+	stim.DurationError: -999999
+	stim.RTTime: 1082012
+	stim.ACC: 1
+	stim.RT: 385
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 100
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1084243
+	stim.DurationError: -999999
+	stim.RTTime: 1084728
+	stim.ACC: 1
+	stim.RT: 485
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 101
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1086959
+	stim.DurationError: -999999
+	stim.RTTime: 1087561
+	stim.ACC: 1
+	stim.RT: 602
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 102
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1089792
+	stim.DurationError: -999999
+	stim.RTTime: 1090250
+	stim.ACC: 1
+	stim.RT: 458
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 103
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1092474
+	stim.DurationError: -999999
+	stim.RTTime: 1092913
+	stim.ACC: 1
+	stim.RT: 439
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 104
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1095141
+	stim.DurationError: -999999
+	stim.RTTime: 1095734
+	stim.ACC: 1
+	stim.RT: 593
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 105
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1097957
+	stim.DurationError: -999999
+	stim.RTTime: 1098474
+	stim.ACC: 1
+	stim.RT: 517
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 106
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1100706
+	stim.DurationError: -999999
+	stim.RTTime: 1101266
+	stim.ACC: 1
+	stim.RT: 560
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 107
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1103489
+	stim.DurationError: -999999
+	stim.RTTime: 1103934
+	stim.ACC: 1
+	stim.RT: 445
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 108
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1106155
+	stim.DurationError: -999999
+	stim.RTTime: 1106589
+	stim.ACC: 1
+	stim.RT: 434
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 109
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1108821
+	stim.DurationError: -999999
+	stim.RTTime: 1109182
+	stim.ACC: 1
+	stim.RT: 361
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 110
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1111404
+	stim.DurationError: -999999
+	stim.RTTime: 1111784
+	stim.ACC: 1
+	stim.RT: 380
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 111
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1114004
+	stim.DurationError: -999999
+	stim.RTTime: 1114354
+	stim.ACC: 1
+	stim.RT: 350
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 112
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1116586
+	stim.DurationError: -999999
+	stim.RTTime: 1117105
+	stim.ACC: 1
+	stim.RT: 519
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 113
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1119336
+	stim.DurationError: -999999
+	stim.RTTime: 1119793
+	stim.ACC: 1
+	stim.RT: 457
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 114
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1122019
+	stim.DurationError: -999999
+	stim.RTTime: 1122393
+	stim.ACC: 1
+	stim.RT: 374
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 115
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1124618
+	stim.DurationError: -999999
+	stim.RTTime: 1125021
+	stim.ACC: 1
+	stim.RT: 403
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 116
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1127251
+	stim.DurationError: -999999
+	stim.RTTime: 1127604
+	stim.ACC: 1
+	stim.RT: 353
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 117
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1129834
+	stim.DurationError: -999999
+	stim.RTTime: 1130302
+	stim.ACC: 1
+	stim.RT: 468
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 118
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1132533
+	stim.DurationError: -999999
+	stim.RTTime: 1132934
+	stim.ACC: 1
+	stim.RT: 401
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 119
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1135166
+	stim.DurationError: -999999
+	stim.RTTime: 1135626
+	stim.ACC: 1
+	stim.RT: 460
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 120
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1137849
+	stim.DurationError: -999999
+	stim.RTTime: 1138297
+	stim.ACC: 1
+	stim.RT: 448
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 121
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1140532
+	stim.DurationError: -999999
+	stim.RTTime: 1140912
+	stim.ACC: 1
+	stim.RT: 380
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 122
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1143131
+	stim.DurationError: -999999
+	stim.RTTime: 1143481
+	stim.ACC: 0
+	stim.RT: 350
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 123
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1145714
+	stim.DurationError: -999999
+	stim.RTTime: 1146091
+	stim.ACC: 0
+	stim.RT: 377
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 124
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1148314
+	stim.DurationError: -999999
+	stim.RTTime: 1148783
+	stim.ACC: 1
+	stim.RT: 469
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 125
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1151013
+	stim.DurationError: -999999
+	stim.RTTime: 1151437
+	stim.ACC: 1
+	stim.RT: 424
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 126
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1153663
+	stim.DurationError: -999999
+	stim.RTTime: 1154033
+	stim.ACC: 1
+	stim.RT: 370
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 127
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1156262
+	stim.DurationError: -999999
+	stim.RTTime: 1156684
+	stim.ACC: 0
+	stim.RT: 422
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 128
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1158912
+	stim.DurationError: -999999
+	stim.RTTime: 1159277
+	stim.ACC: 1
+	stim.RT: 365
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 129
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1161511
+	stim.DurationError: -999999
+	stim.RTTime: 1161863
+	stim.ACC: 1
+	stim.RT: 352
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 130
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1164094
+	stim.DurationError: -999999
+	stim.RTTime: 1164479
+	stim.ACC: 0
+	stim.RT: 385
+	stim.RESP: {/}
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 131
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1166710
+	stim.DurationError: -999999
+	stim.RTTime: 1167134
+	stim.ACC: 0
+	stim.RT: 424
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 132
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1169360
+	stim.DurationError: -999999
+	stim.RTTime: 1169824
+	stim.ACC: 1
+	stim.RT: 464
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 133
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1172059
+	stim.DurationError: -999999
+	stim.RTTime: 1172584
+	stim.ACC: 0
+	stim.RT: 525
+	stim.RESP: {/}
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 134
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1174809
+	stim.DurationError: -999999
+	stim.RTTime: 1175296
+	stim.ACC: 1
+	stim.RT: 487
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 135
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1177525
+	stim.DurationError: -999999
+	stim.RTTime: 1178058
+	stim.ACC: 1
+	stim.RT: 533
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 136
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1180291
+	stim.DurationError: -999999
+	stim.RTTime: 1180702
+	stim.ACC: 1
+	stim.RT: 411
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 137
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1182924
+	stim.DurationError: -999999
+	stim.RTTime: 1183317
+	stim.ACC: 1
+	stim.RT: 393
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 138
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 5
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1185540
+	stim.DurationError: -999999
+	stim.RTTime: 1186035
+	stim.ACC: 1
+	stim.RT: 495
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 139
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1188256
+	stim.DurationError: -999999
+	stim.RTTime: 1188601
+	stim.ACC: 0
+	stim.RT: 345
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 140
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1190822
+	stim.DurationError: -999999
+	stim.RTTime: 1191285
+	stim.ACC: 0
+	stim.RT: 463
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 141
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1193505
+	stim.DurationError: -999999
+	stim.RTTime: 1193934
+	stim.ACC: 1
+	stim.RT: 429
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 142
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1196154
+	stim.DurationError: -999999
+	stim.RTTime: 1196611
+	stim.ACC: 1
+	stim.RT: 457
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 143
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1198837
+	stim.DurationError: -999999
+	stim.RTTime: 1199305
+	stim.ACC: 1
+	stim.RT: 468
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 144
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1201537
+	stim.DurationError: -999999
+	stim.RTTime: 1201903
+	stim.ACC: 1
+	stim.RT: 366
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 145
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1204136
+	stim.DurationError: -999999
+	stim.RTTime: 1204581
+	stim.ACC: 1
+	stim.RT: 445
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 146
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1206802
+	stim.DurationError: -999999
+	stim.RTTime: 1207278
+	stim.ACC: 1
+	stim.RT: 476
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 147
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1209502
+	stim.DurationError: -999999
+	stim.RTTime: 1209978
+	stim.ACC: 1
+	stim.RT: 476
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 148
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1212201
+	stim.DurationError: -999999
+	stim.RTTime: 1212712
+	stim.ACC: 1
+	stim.RT: 511
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 149
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1214934
+	stim.DurationError: -999999
+	stim.RTTime: 1215444
+	stim.ACC: 1
+	stim.RT: 510
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 150
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1217667
+	stim.DurationError: -999999
+	stim.RTTime: 1218117
+	stim.ACC: 1
+	stim.RT: 450
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 151
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: E
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 1
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1220350
+	stim.DurationError: -999999
+	stim.RTTime: 1220746
+	stim.ACC: 1
+	stim.RT: 396
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 152
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 8
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1222966
+	stim.DurationError: -999999
+	stim.RTTime: 1223434
+	stim.ACC: 1
+	stim.RT: 468
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 153
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 16
+	stim.OnsetTime: 1225665
+	stim.DurationError: -999999
+	stim.RTTime: 1226111
+	stim.ACC: 1
+	stim.RT: 446
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 154
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: F
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 4
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1228332
+	stim.DurationError: -999999
+	stim.RTTime: 1228772
+	stim.ACC: 1
+	stim.RT: 440
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 155
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 1
+	borR: 3
+	condition: incongruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 7
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1230998
+	stim.DurationError: -999999
+	stim.RTTime: 1231383
+	stim.ACC: 0
+	stim.RT: 385
+	stim.RESP: z
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 156
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1233614
+	stim.DurationError: -999999
+	stim.RTTime: 1234066
+	stim.ACC: 1
+	stim.RT: 452
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 157
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 3
+	borR: 1
+	condition: incongruent
+	ans: z
+	Procedure: trialProc
+	Block02: 6
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1236297
+	stim.DurationError: -999999
+	stim.RTTime: 1236736
+	stim.ACC: 1
+	stim.RT: 439
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 158
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: F
+	tarR: 
+	borL: 3
+	borR: 1
+	condition: congruent
+	ans: {/}
+	Procedure: trialProc
+	Block02: 3
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1238963
+	stim.DurationError: -999999
+	stim.RTTime: 1239419
+	stim.ACC: 1
+	stim.RT: 456
+	stim.RESP: {/}
+	stim.CRESP: {/}
+	Block02.Cycle: 1
+	Block02.Sample: 159
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	tarL: 
+	tarR: E
+	borL: 1
+	borR: 3
+	condition: congruent
+	ans: z
+	Procedure: trialProc
+	Block02: 2
+	Running: Block02
+	stim.OnsetDelay: 17
+	stim.OnsetTime: 1241646
+	stim.DurationError: -999999
+	stim.RTTime: 1242039
+	stim.ACC: 1
+	stim.RT: 393
+	stim.RESP: z
+	stim.CRESP: z
+	Block02.Cycle: 1
+	Block02.Sample: 160
+	*** LogFrame End ***
+Level: 1
+*** LogFrame Start ***
+Experiment: CueingTask
+SessionDate: 06-25-2017
+SessionTime: 16:33:59
+RandomSeed: 1380855282
+Group: 1
+Subject: 1
+Session: 1
+Display.RefreshRate: 60.012
+*** LogFrame End ***
