@@ -1,6 +1,6 @@
 # Introduction to E-Prime
 
-- **analysis**: R script for analysis and graphs for mean and ACC
+- **analysis**: R script for analysis and graphs for ACC and RT
 - **data**: data of the CueingTask experiment
 - **scripts**: E-prime scripts, including E-Studio files (.es) and E-Run files (.ebs)
 
